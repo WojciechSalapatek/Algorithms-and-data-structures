@@ -1,2 +1,2 @@
 # Algorithms-and-data-structures
-Repository contains implementations of basic algorithms and datastructures in c++
+Repository contains implementations of basic algorithms and data structures in c++
